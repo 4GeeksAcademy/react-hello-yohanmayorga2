@@ -1,0 +1,32 @@
+.redShadow {
+    box-shadow: 10px 10px 200px 61px rgba(255, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 200px 61px rgba(255, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 200px 61px rgba(255, 0, 0, 0.75);
+}
+
+.yellowShadow {
+    box-shadow: 10px 10px 200px 61px rgba(173, 255, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 200px 61px rgba(173, 255, 0, 0.75);
+    -moz-box-shadow: 10px 10px 200px 61px rgba(173, 255, 0, 0.75);
+}
+
+.greenShadow {
+    box-shadow: 10px 10px 200px 61px rgba(0, 255, 41, 0.75);
+    -webkit-box-shadow: 10px 10px 200px 61px rgba(0, 255, 41, 0.75);
+    -moz-box-shadow: 10px 10px 200px 61px rgba(0, 255, 41, 0.75);
+}
+
+.redText {
+    color: red;
+    font-weight: bold;
+}
+
+.yellowText {
+    color: yellow;
+    font-weight: bold;
+}
+
+.greenText {
+    color: green;
+    font-weight: bold;
+}
